@@ -1,0 +1,7 @@
+*.exe
+*.bin
+*.o
+*.a
+*.dll
+*.so
+*.la
